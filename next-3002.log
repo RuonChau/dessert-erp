@@ -1,0 +1,40 @@
+
+> ai-studio-applet@0.1.0 dev
+> next dev --port 3002
+
+   ▲ Next.js 15.5.18
+   - Local:        http://localhost:3002
+   - Network:      http://192.168.1.5:3002
+
+ ✓ Starting...
+ ✓ Ready in 2.3s
+ ○ Compiling /settings ...
+ ✓ Compiled /settings in 5.5s (4862 modules)
+ GET /settings 200 in 6255ms
+ ✓ Compiled in 1089ms (915 modules)
+ ✓ Compiled in 670ms (915 modules)
+ ✓ Compiled in 361ms (915 modules)
+ ✓ Compiled in 511ms (338 modules)
+ ✓ Compiled in 252ms (338 modules)
+ ✓ Compiled in 473ms (338 modules)
+ ✓ Compiled in 622ms (338 modules)
+ ✓ Compiled in 313ms (338 modules)
+ ✓ Compiled in 228ms (338 modules)
+ ✓ Compiled in 1208ms (338 modules)
+ ✓ Compiled in 366ms (338 modules)
+ ✓ Compiled in 341ms (338 modules)
+ ✓ Compiled in 494ms (338 modules)
+ ✓ Compiled in 332ms (338 modules)
+ ✓ Compiled in 526ms (338 modules)
+ ✓ Compiled in 402ms (338 modules)
+ ✓ Compiled in 308ms (338 modules)
+ ✓ Compiled in 551ms (338 modules)
+ ○ Compiling /settings ...
+ ✓ Compiled /settings in 8.5s (4849 modules)
+ GET /settings 200 in 9010ms
+ GET /settings 200 in 344ms
+ ✓ Compiled in 1596ms (2324 modules)
+ ✓ Compiled in 745ms (2324 modules)
+ ✓ Compiled in 705ms (2324 modules)
+ ✓ Compiled in 742ms (2324 modules)
+[?25h
